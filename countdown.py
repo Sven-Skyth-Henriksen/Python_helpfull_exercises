@@ -5,15 +5,12 @@ for x in range(1, 11, 1):
 print('Blast off!!')
 
 
-
-
 # I tried to create a countdown with the code below, but it's not working
+# I'm using the same code above, but changed only the third parameter, but not working
 
 for x in range(1, 11, -1):
     print(x)
 print('Blast off!!')
-
-
 
 
 # This countdown works
