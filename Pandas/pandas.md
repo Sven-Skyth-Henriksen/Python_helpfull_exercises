@@ -13,7 +13,7 @@ import pandas as pd
 
 * [mean](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.mean.html?highlight=mean) # Return the mean of the values over the requested axis
 
-* []() # 
+* [sort_values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html?highlight=sort_values) # Sort by the values along either axis
 
 * []() # 
 
