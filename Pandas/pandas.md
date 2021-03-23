@@ -15,7 +15,7 @@ import pandas as pd
 
 * [sort_values](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html?highlight=sort_values) # Sort by the values along either axis
 
-* []() # 
+* [Reshaping and pivot tables](https://pandas.pydata.org/pandas-docs/version/0.25.2/user_guide/reshaping.html) # different visualization of data
 
 * []() # 
 
