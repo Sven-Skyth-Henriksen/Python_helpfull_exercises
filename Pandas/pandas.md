@@ -9,3 +9,13 @@ import pandas as pd
 
 * [loc](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.loc.html?highlight=loc) # Access a group of rows and columns by label(s) or a boolean array.
 
+* [sum](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sum.html?highlight=sum#pandas.Series.sum) # Return the sum of the values over the requested axis
+
+* [mean](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.mean.html?highlight=mean) # Return the mean of the values over the requested axis
+
+* []() # 
+
+* []() # 
+
+* []() # 
+
